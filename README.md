@@ -144,10 +144,10 @@ Se trovi un bug o hai suggerimenti, segnalalo su:
 
 Vedi il file LICENSE (se presente).
 
-## Autore
+## L'idea
 
-Totò
+L'idea è nata leggendo questa mail: <https://discourse.osgeo.org/t/layout-gestione-oggetti-layout/153864>
 
 ---
 
-**Nota**: Questo plugin è in versione **sperimentale** (0.1). Usa con cautela in ambienti di produzione.
+**Nota**: Questo plugin è in versione **sperimentale** (0.2). Usa con cautela in ambienti di produzione.
