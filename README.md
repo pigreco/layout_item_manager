@@ -10,6 +10,8 @@ Un plugin QGIS per gestire la visibilità e lo stato di blocco degli oggetti nei
 - **Bloccare/Sbloccare** oggetti in massa
 - **Salvare selezioni** come gruppi riutilizzabili all'interno del progetto
 
+![](gui.png)
+
 ## Requisiti
 
 - **QGIS 3.20 o superiore**
