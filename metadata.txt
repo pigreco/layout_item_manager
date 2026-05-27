@@ -5,18 +5,18 @@ qgisMaximumVersion=4.99
 description=Gestisci visibilità e blocco degli oggetti del layout per nome, lista o regex
 version=0.2
 author=Salvatore Fiandaca
-email=toto@example.com
+email=pigrecoinfinito@gmail.com
 about=Permette di accendere/spegnere e bloccare/sbloccare gli oggetti del layout di stampa
     selezionandoli per nome, lista di nomi o espressione regolare.
     Supporta il salvataggio di gruppi personalizzati.
-tracker=https://github.com/user/layout_item_manager/issues
-repository=https://github.com/user/layout_item_manager
-homepage=https://github.com/user/layout_item_manager
+tracker=https://github.com/pigreco/layout_item_manager/issues
+repository=https://github.com/pigreco/layout_item_manager
+homepage=https://github.com/pigreco/layout_item_manager
 hasProcessingProvider=no
 tags=layout, stampa, oggetti, visibilità, blocco
-category=Web
+category=Plugins
 icon=icon.png
-experimental=True
+experimental=False
 deprecated=False
 server=False
 changelog=
