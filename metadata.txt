@@ -2,13 +2,18 @@
 name=Layout Item Manager
 qgisMinimumVersion=3.20
 qgisMaximumVersion=4.99
-description=Gestisci visibilità e blocco degli oggetti del layout per nome, lista o regex
+description=Manage print layout item visibility and lock states by name, list, or regex pattern / Gestisci visibilità e blocco degli oggetti del layout per nome, lista o regex
 version=0.2
 author=Salvatore Fiandaca
 email=pigrecoinfinito@gmail.com
-about=Permette di accendere/spegnere e bloccare/sbloccare gli oggetti del layout di stampa
-    selezionandoli per nome, lista di nomi o espressione regolare.
-    Supporta il salvataggio di gruppi personalizzati.
+about=Manage visibility and lock states of print layout objects with three powerful selection modes:
+    by name list, regex pattern, or saved custom groups. Easily show/hide and lock/unlock multiple
+    layout items in bulk operations. Perfect for managing complex print layouts with many elements.
+
+    Gestisci visibilità e blocco degli oggetti del layout di stampa con tre modalità di selezione:
+    per lista di nomi, espressione regolare, o gruppi personalizzati salvati. Mostra/nascondi e
+    blocca/sblocca facilmente più oggetti in operazioni di massa. Ideale per gestire layout
+    complessi con molti elementi.
 tracker=https://github.com/pigreco/layout_item_manager/issues
 repository=https://github.com/pigreco/layout_item_manager
 homepage=https://github.com/pigreco/layout_item_manager
